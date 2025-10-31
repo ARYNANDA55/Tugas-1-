@@ -98,13 +98,13 @@
             max-width: 800px;
         }
 
-        .greeting {
-            font-size: 1.2rem;
-            color: #ff0000;
-            margin-bottom: 0.5rem;
-            font-weight: 500;
-        }
-
+      
+.greeting {
+    font-size: 1.2rem;
+    color: #667eea;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+}
         .name {
             font-size: 4rem;
             font-weight: 800;
